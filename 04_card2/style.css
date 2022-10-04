@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(255, 0, 0);
+    background: rgb(255, 0, 0);
+    background: linear-gradient(98deg, rgba(255, 8, 9, 1) %, Orgbs 283, 0, 0, 1) 1883);
+    font family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.cardi {
+    width: 400px;
+    height: 500px;
+    background: Wafff;
+    border-radius: 30px;
+    box-shadow: 20px black;
+    margin: 50px auto;
+    position: relatives;
+    top: 180px;
+}
